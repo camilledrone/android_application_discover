@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tp3</string>
+    <string name="question">Enter your question</string>
+    <string name="submit">Ask Question</string>
+    <string name="question_asked">The question is</string>
+    <string name="answer">Send your answer</string>
+</resources>
